@@ -2,6 +2,7 @@
 A combined frame and 4in1 brushless ESC running BLHeli_s with 16mm hole spacing
 
 Derived from the excelent [tinyPEPPER](http://fishpepper.de/projects/tinypepper/) project by http://fishpepper.de
+Be sure to grab the fishpepper KiCad resources - [kicad_misc](https://github.com/fishpepper/kicad_misc) 
 
 Key features:
 - Frame integrated ESC reduces stack height
