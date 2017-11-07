@@ -1,8 +1,9 @@
 # ESC_Frame
 A combined frame and 4in1 brushless ESC running BLHeli_s with 16mm hole spacing
 
-Derived from the excelent [tinyPEPPER](http://fishpepper.de/projects/tinypepper/) project by http://fishpepper.de
-Be sure to grab the fishpepper KiCad resources - [kicad_misc](https://github.com/fishpepper/kicad_misc) 
+Derived from the excelent [tinyPEPPER](http://fishpepper.de/projects/tinypepper/) project by http://fishpepper.de As such I have also used the fishpepper KiCad resources - [kicad_misc](https://github.com/fishpepper/kicad_misc) 
+
+Until I write a proper build guide the [tinyPEPPER v0.5](http://fishpepper.de/2017/03/23/tinypepper-esc-how-to-build-your-own-v0-5/) build guide will be the best reference.
 
 Key features:
 - Frame integrated ESC reduces stack height
@@ -15,4 +16,4 @@ This work is published under the CERN open hardware license v1.2.
 Feel free to use the design - but make sure to give proper credit 
 and release all modifications under the same license! 
 
-THIS COMES WITH NO WARRANTY! BUILD, FLY, AND USE AT YOUR OWN RISK!
+This comes with NO warranty, build and fly at your own risk!
